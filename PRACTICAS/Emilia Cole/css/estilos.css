@@ -1,0 +1,79 @@
+.index{
+    background-image: url(../img/home.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 1100px;
+}
+
+.indexh {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 40px;
+}
+
+.lista ul, a{
+    list-style: none;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: black;
+
+}
+
+.indexp {
+    font-size: 70px;
+    background-color: rgba(146, 145, 138, 0.3);
+}
+
+.listabout {
+    text-align: right;
+    background-color: rgba(255, 255, 255, 0.3);
+    font-size: 20px;
+}
+.redessociales {
+    text-align: right;
+}
+.about {
+    background-image: url(../img/about.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: top;
+    background-size: 1150px;
+}
+#aboutemilia{
+    font-size: 60px;
+    font-family: 'Raleway', sans-serif;
+}
+.textosabout {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(103, 182, 219);
+    font-size: 25px;
+}
+.textosabout2 {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(103, 182, 219);
+    font-size: 15px;
+}
+.music {
+    background-image: url(../img/music-top.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: auto;
+
+}
+.titulos {
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+}
+.musictitulos{
+    font-family: 'Open Sans', sans-serif;
+}
+.textocontact h2{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(103, 182, 219);
+    font-size: 25px;
+}
+.textocontact p {
+    font-family: 'Open Sans', sans-serif;
+}
+.textocontact2 {
+    font-family: 'Open Sans', sans-serif;
+}
